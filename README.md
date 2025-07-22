@@ -39,19 +39,17 @@
   <code><img width="5%" title="Playwright" alt="Playwright" src="media/icons/playwright-original.svg"></code>
   <code><img width="5%" title="Selene" alt="Selene" src="media/icons/selene.png"></code>
 <p  align="center">
-  <code><img width="5%" title="GitHub" alt="GitHub" src="media/icons/github.png"></code>
-  <code><img width="5%" title="Jenkins" alt="Jenkins" src="media/icons/jenkins-original.svg"></code>
-  <code><img width="5%" title="Docker" alt="Docker" src="media/icons/docker.png"></code>
-  <code><img width="5%" title="Selenoid" alt="Selenoid" src="media/icons/selenoid1.png"></code>
-<p  align="center">
   <code><img width="5%" title="Postman" alt="Postman" src="media/icons/postman.png"></code>
   <code><img width="5%" title="Requests" alt="Requests" src="media/icons/requests.png"></code>
   <code><img width="5%" title="PostgreSQL" alt="PostgreSQL" src="media/icons/postgresql.svg"></code>
-<p  align="center">
   <code><img width="5%" title="Appium" alt="Appium" src="media/icons/appium.png"></code>
   <code><img width="5%" title="Android Studio" alt="Android Studio" src="media/icons/android-studio.png"></code>
   <code><img width="5%" title="BrowserStack" alt="BrowserStack" src="media/icons/browserstack.png"></code>
 <p  align="center">
+  <code><img width="5%" title="GitHub" alt="GitHub" src="media/icons/github.png"></code>
+  <code><img width="5%" title="Jenkins" alt="Jenkins" src="media/icons/jenkins-original.svg"></code>
+  <code><img width="5%" title="Docker" alt="Docker" src="media/icons/docker.png"></code>
+  <code><img width="5%" title="Selenoid" alt="Selenoid" src="media/icons/selenoid1.png"></code>
   <code><img width="5%" title="Allure Report" alt="Allure Report" src="media/icons/Allure.svg"></code>
   <code><img width="5%" title="Allure TestOps" alt="Allure TestOps" src="media/icons/AllureTestOps.png"></code>
   <code><img width="5%" title="Jira" alt="Jira" src="media/icons/Jira.png"></code>
