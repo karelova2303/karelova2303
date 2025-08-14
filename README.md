@@ -21,8 +21,9 @@
 ## :man_student:Образование
 <table width="100%" border='0'>
    <tr> 
+    <td width="30%" valign="bottom"><img src="media/images/qa-guru-school.png"></td><td valign="middle">Школа QA - <a target="_blank" href="https://qa.guru">qa.guru</a></br>Инженер по автоматизации тестирования на Python</br><a target="_blank" href="https://drive.google.com/file/d/1INwdf9vmHwOnQfw-v5ciTAVqAaQPJAZZ/view?usp=sharing">Сертификат</td></tr>
+    <td width="30%" valign="bottom"><img src="media/images/vzfei.png"></td><td valign="middle">Финансовый университет при Правительстве Российской Федерации (бывший ВЗФЭИ)</br>Финансист</td></tr>
     <td width="30%" valign="bottom"><img src="media/images/nkse.png"></td><td valign="middle">Новороссийский колледж строительства и экономики</br>Программист ВТ и АИС</td></tr>
-    <tr><td width="30%" valign="bottom"><img src="media/images/qa-guru-school.png"></td><td valign="middle">Школа QA - <a target="_blank" href="https://qa.guru">qa.guru</a></br>Инженер по автоматизации тестирования на Python</td></tr>
    </tr>
   </table>
   </br>
